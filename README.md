@@ -49,3 +49,4 @@ Para ejecutar este proyecto, sigue estos pasos:
 
 [Parte 1, 2 y 3](https://github.com/Aljure-bit/prueba_tecnica_pt1-2-3)
 
+[Parte 5](https://github.com/Aljure-bit/prueba_tecnica_pt_5)
